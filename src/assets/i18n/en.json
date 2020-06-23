@@ -1,0 +1,21 @@
+{
+  "AppComponent": {
+    "title": "App Title",
+    "headerText": "Welcome",
+    "isRunning": "is running!",
+    "resources": "Resources",
+    "resourcesSubText": "Here are some links to help you get started",
+    "learnAngular": "Learn Angular",
+    "cliDocs": "CLI Documentation",
+    "angularBlog": "Angular Blog",
+    "nextSteps": "Next Steps",
+    "nextStepsSubtext": "What do you want to do next with your app?",
+    "newComponent": "New Component",
+    "angularMaterial": "Angular Material",
+    "addDependency": "Add Dependency",
+    "runTests": "Run and Watch Tests",
+    "prodBuild": "Build for Production",
+    "loveAngular": "Love Angular?",
+    "repoStar": "Give our repo a star"
+  }
+}
